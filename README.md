@@ -28,5 +28,43 @@ Mover una fila completa hacia la izquierda
 ![alt text](image-4.png)
 ![alt text](image-5.png)
 
+Mover la cuadrícula completa hacia la izquierda
+![alt text](image-6.png)
+![alt text](image-7.png)
+
+Mover hacia la derecha
+![alt text](image-8.png)
+![alt text](image-9.png)
+
+Mover arriba y abajo
+![alt text](image-10.png)
+![alt text](image-11.png)
+
+Agregar una ficha nueva al azar
+![alt text](image-12.png)
+![alt text](image-13.png)
+
+Detectar si ya no hay movimientos posibles
+![alt text](image-14.png)
+![alt text](image-15.png)
+
+Detectar la victoria
+![alt text](image-16.png)
+![alt text](image-17.png)
+
+MotorJuego: Integrar todo
+![alt text](image-18.png)
+![alt text](image-19.png)
+
+![alt text](image-20.png)
+
+Prueba de integración — Una partida completa
+![alt text](image-21.png)
+
+![alt text](image-22.png)
+
+Crear la interfaz gráfica de Nieves 2048
+![alt text](image-23.png)
+![alt text](image-24.png)
 
 
